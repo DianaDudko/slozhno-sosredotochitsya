@@ -4,8 +4,8 @@
   переключая тему
 */
 
-.page.theme_light{ 
-  --decorated-zone-color: rgb(53, 52, 48);;
+.page.theme_light {
+  --decorated-zone-color: rgb(53, 52, 48);
   --rec-icon-color: transparent;
   --header-menu-color: rgb(53, 52, 48);
   --header-heading: rgb(255, 194, 230);
@@ -24,7 +24,7 @@
 
 @media (prefers-color-scheme: light) {
   :root {
-    --decorated-zone-color: rgb(53, 52, 48);;
+    --decorated-zone-color: rgb(53, 52, 48);
     --rec-icon-color: transparent;
     --header-menu-color: rgb(53, 52, 48);
     --header-heading: rgb(255, 194, 230);
@@ -40,4 +40,4 @@
     --links-color-shadow: rgb(255, 141, 203);
     --links-color: rgba(53, 52, 48, 1);
   }
-}  
+}
