@@ -21,8 +21,8 @@
   --gap: 20px;
 }
 
-@media (width < 768px){
-  :root{ 
+@media (width < 768px) {
+  :root {
     --gap: 10px;
   }
 }
